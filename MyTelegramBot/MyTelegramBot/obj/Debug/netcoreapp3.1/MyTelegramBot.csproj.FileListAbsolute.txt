@@ -1,0 +1,15 @@
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\MyTelegramBot.exe
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp3.1\MyTelegramBot.csprojAssemblyReference.cache
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp3.1\MyTelegramBot.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp3.1\MyTelegramBot.AssemblyInfo.cs
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\MyTelegramBot.deps.json
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\MyTelegramBot.runtimeconfig.json
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\MyTelegramBot.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\MyTelegramBot.dll
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\MyTelegramBot.pdb
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp3.1\MyTelegramBot.csproj.CopyComplete
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp3.1\MyTelegramBot.dll
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp3.1\MyTelegramBot.pdb
+C:\Users\Irina\source\repos\MyTelegramBot\MyTelegramBot\obj\Debug\netcoreapp3.1\MyTelegramBot.genruntimeconfig.cache
